@@ -8,12 +8,11 @@
 ---
 
 ## 🖼️ 项目预览
-<p align="center">
-    ![项目预览图](pp.jpg)
-    <br>
-    <i>程序 GUI 可视化运行界面</i>
-</p>
 
+![项目预览图](pp.jpg)
+<p align="center">
+<br><i>程序 GUI 可视化运行界面</i>
+</p>
 
 ---
 
